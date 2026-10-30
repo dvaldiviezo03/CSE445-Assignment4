@@ -5,9 +5,9 @@
 		   elementFormDefault="qualified"
 		   attributeFormDefault="unqualified">
 
-	<xs:element name="NationalParks" type="NationalParksType"/>
+	<xs:element name="NationalParks"/>
 
-	<xs:complexType name="NationalParksType">
+	<xs:complexType>
 		<xs:sequence>
 
 			<xs:element name="NationalPark" minOccurs="1" maxOccurs="unbounded">
