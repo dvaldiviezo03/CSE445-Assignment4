@@ -18,6 +18,7 @@
 	<NationalPark>
 		<Name>Yellowstone</Name>
 		<Phone>307-344-7381</Phone>
+		<Phone>307-344-2117</Phone>
 		
 		<Address NearestAirport="West Yellowstone Airport">
 			<Number>2</Number>
